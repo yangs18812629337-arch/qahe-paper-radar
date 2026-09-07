@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T06:00:31.806012+00:00",
+  "updated_at": "2026-09-07T06:10:03.574373+00:00",
   "papers": [
     {
       "id": "doi:10.1360/sspma-2026-0011",
@@ -155,6 +155,25 @@
       "figure_captions": [],
       "ai_summary": "In Other New Materials, this paper argues that abstract Altermagnetism is a newly identified magnetic phase, constituting a third class of magnets with momentum-dependent spin splitting but vanishing net magnetic moment. Furthermore, we identify the Fe2Te2O monolayer as a realistic candidate hosting nontrivial phenomena, where topological phase transitions from a topological crystalline insulator (TCI) to a QAH insulator and between QAH insulators with opposite chirality emerge, as confirmed by first-principles calculations. Notably, Floquet–Bloch band engineering enables switchable chirality via manipulating the intensity and/or polar angle.",
       "abstract_status": "original"
+    },
+    {
+      "id": "doi:10.1103/tv3l-85d1",
+      "title": "Demonstration of robust chiral edge transport in field-induced Chern insulator MnBi 2 Te 4 devices with engineered geometric defects",
+      "authors": [
+        "Anonymous"
+      ],
+      "abstract": "AI-assisted abstract based on the title and available metadata: This paper studies Demonstration of robust chiral edge transport in field-induced Chern insulator MnBi 2 Te 4 devices with engineered geometric defects in the context of quantum anomalous Hall or Chern-insulator research. The current metadata source does not provide an original abstract, so this text is provided only as a reading aid.",
+      "journal": "Physical Review Letters",
+      "published": "2026-09-03",
+      "url": "https://doi.org/10.1103/tv3l-85d1",
+      "doi": "10.1103/tv3l-85d1",
+      "source": "Crossref",
+      "material_system": "Other_New_Materials",
+      "image_url": null,
+      "figure_urls": [],
+      "figure_captions": [],
+      "ai_summary": "No abstract is available, so the summary is limited to the title and metadata.",
+      "abstract_status": "ai_assisted"
     },
     {
       "id": "arxiv:2609.00784",
